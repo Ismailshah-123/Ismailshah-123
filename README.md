@@ -2,7 +2,7 @@
 
 **AI Engineer | Agentic AI · Machine Learning · Data Analytics**
 
-I build practical software around data and AI — from machine-learning applications and analytical dashboards to backend services and agentic workflows. I’m interested in the full path from raw data or a business problem to a working tool: preparing the data, building the logic, connecting the pieces, and making the result understandable to the people using it.
+I build practical software around data and AI from machine-learning applications and analytical dashboards to backend services and agentic workflows. I’m interested in the full path from raw data or a business problem to a working tool: preparing the data, building the logic, connecting the pieces, and making the result understandable to the people using it.
 
 My projects span AI application engineering, computer vision, predictive modelling, data analysis, and workflow automation.
 
