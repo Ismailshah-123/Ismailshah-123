@@ -1,68 +1,120 @@
 # Ismail Shah
 
-**AI Engineer | Agentic AI · Backend Systems · Automation**
+**AI Engineer | Agentic AI · Machine Learning · Data Analytics**
 
-I build AI-powered applications that connect language models to practical workflows. My work focuses on the engineering around the model: APIs, tool execution, retrieval, data handling, integrations, and interfaces that make an AI feature useful in a real process.
+I build practical software around data and AI — from machine-learning applications and analytical dashboards to backend services and agentic workflows. I’m interested in the full path from raw data or a business problem to a working tool: preparing the data, building the logic, connecting the pieces, and making the result understandable to the people using it.
 
-I enjoy taking a problem from its first workflow sketch through to a working application, then improving it through testing and iteration.
+My projects span AI application engineering, computer vision, predictive modelling, data analysis, and workflow automation.
 
 [LinkedIn](https://www.linkedin.com/in/ismail-shah-57b425327) · [GitHub](https://github.com/Ismailshah-123)
 
 ---
 
-## Selected work
+## Featured projects
 
-### [AI Voice Agent Platform](https://github.com/Ismailshah-123/Multi_voice_agent)
-A Vapi-based voice-agent platform with a FastAPI backend. I worked on the application layer around the voice provider: webhook handling, tool execution, business knowledge retrieval, call records, and post-call workflows.
+### AI engineering & intelligent applications
 
-**Focus:** FastAPI · Vapi · RAG · Qdrant · PostgreSQL · Groq
+#### [AI Voice Agent Platform](https://github.com/Ismailshah-123/Multi_voice_agent)
+A multi-tenant voice-agent application built around Vapi and a FastAPI backend. The backend handles provider webhooks, tool execution, business knowledge retrieval, call records, and post-call workflows.
 
-### [DPS AI Student Interview Documentation System](https://github.com/Ismailshah-123/dps-interviewer)
-A school-focused system for recording interviews with consent, transcribing audio, preparing structured documentation, and routing it for staff review. The current repository documents an end-to-end demo using synthetic data; it is not presented as production-ready. Staff retain responsibility for every decision.
+*Python · FastAPI · Vapi · RAG · Qdrant · PostgreSQL · Groq*
 
-**Focus:** React · TypeScript · FastAPI · Whisper · Ollama · PostgreSQL
+#### [MultiCancer Ultimate](https://github.com/Ismailshah-123/Multi-Cancer-App)
+A computer-vision research application that brings together image-classification models for several cancer-related imaging tasks, with prediction visualizations and a medical knowledge assistant. The app includes CNN-based model workflows and saliency views to help inspect image regions influencing a result.
 
-### [Lead Intelligence Engine](https://github.com/Ismailshah-123/lead-scrapper)
-A prospect research and qualification workflow built around evidence rather than unverified lead volume. It collects available company signals, tracks where information came from, and flags missing or conflicting details for review.
+*Python · PyTorch · Streamlit · Computer Vision · CNNs · FAISS · RAG*
 
-**Focus:** Python · Research workflows · Data validation · Lead scoring · Streamlit
+> Research and educational software only. It is not a medical device and must not be used to diagnose, screen, or make treatment decisions.
 
-### [CareerGPT](https://github.com/Ismailshah-123/Career-making)
-A multi-stage job application workspace exploring role discovery, resume-to-job matching, application preparation, and workflow automation through cooperating services and agents.
+#### [DPS AI Student Interview Documentation System](https://github.com/Ismailshah-123/dps-interviewer)
+A school-focused workflow for recording interviews with consent, transcribing audio, preparing structured documentation, and routing records for staff review. The current repository documents an end-to-end demo using synthetic data; it is not presented as production-ready. Staff retain responsibility for every decision.
 
-**Focus:** FastAPI · LangGraph · Celery · PostgreSQL · Redis · Qdrant · Streamlit
+*React · TypeScript · FastAPI · Speech-to-Text · PostgreSQL*
 
-### [Financial Agent](https://github.com/Ismailshah-123/financial-agent-)
-An AI-assisted financial operations project exploring reporting, operational insights, and decision-support workflows around business data. The repository describes the project as active development and calls out the validation needed before production use.
+#### [CareerGPT](https://github.com/Ismailshah-123/Career-making)
+A multi-stage job-application workspace exploring role discovery, resume-to-job matching, application preparation, and workflow automation through cooperating services and agents.
 
-**Focus:** Python · FastAPI · React · PostgreSQL · AI agents
+*FastAPI · LangGraph · Celery · PostgreSQL · Redis · Qdrant · Streamlit*
 
-### [Revenue Recovery AI](https://github.com/Ismailshah-123/Revenue-Recovery)
+#### [Lead Intelligence Engine](https://github.com/Ismailshah-123/lead-scrapper)
+A prospect research and qualification workflow designed around evidence rather than unverified lead volume. It collects available company signals, tracks their sources, and flags missing or conflicting details for review.
+
+*Python · Data validation · Research workflows · Lead scoring · Streamlit*
+
+#### [Revenue Recovery AI](https://github.com/Ismailshah-123/Revenue-Recovery)
 An MVP that helps teams review customer email conversations, identify follow-up gaps, and examine potential revenue opportunities with AI-assisted analysis.
 
-**Focus:** FastAPI · Streamlit · SQLAlchemy · Gmail API · AI integration
+*FastAPI · Streamlit · SQLAlchemy · Gmail API · AI integration*
+
+#### [Financial Agent](https://github.com/Ismailshah-123/financial-agent-)
+An AI-assisted financial operations project exploring reporting, operational insights, and decision-support workflows around business data.
+
+*Python · FastAPI · React · PostgreSQL · AI integration*
 
 ---
 
-## Technical areas
+### Machine learning projects
 
-- **AI application engineering:** LLM integration, agent workflows, tool/function calling, prompt design, retrieval-augmented generation
-- **Backend development:** Python, FastAPI, REST APIs, Pydantic, SQLAlchemy
-- **Data and infrastructure:** PostgreSQL, SQLite, Redis, Qdrant, Docker
-- **Interfaces and automation:** React, TypeScript, Streamlit, Playwright, third-party APIs and webhooks
+#### [SMS Spam Detection](https://github.com/Ismailshah-123/sms-detection-project)
+A text-classification application that distinguishes spam from legitimate messages. The workflow includes text cleaning, tokenization, stemming, TF-IDF feature extraction, a Naive Bayes classifier, exploratory analysis, and single-message and batch predictions.
 
-## How I approach engineering
+*Python · Scikit-learn · NLTK · TF-IDF · Naive Bayes · Streamlit*
 
-- Start with the workflow and the problem it needs to solve.
-- Keep business rules and consequential actions in the backend, not solely in model prompts.
-- Validate structured model output before taking action.
-- Make uncertainty visible instead of presenting guesses as facts.
+#### [Insurance Charges Prediction](https://github.com/Ismailshah-123/insurance-project)
+A machine-learning application for exploring insurance-cost data, examining relationships between customer attributes and charges, and generating model-based estimates through an interactive dashboard.
+
+*Python · Pandas · Scikit-learn · SHAP · Plotly · Streamlit*
+
+#### [Movie Recommendation System](https://github.com/Ismailshah-123/movie-recommender)
+A recommendation application that combines collaborative-filtering predictions with content-similarity scores to produce ranked movie suggestions, with genre filtering and movie details.
+
+*Python · Pandas · NumPy · Recommendation Systems · Streamlit*
+
+---
+
+### Data analytics & business intelligence
+
+#### [USA Regional Sales Analysis](https://github.com/Ismailshah-123/sales-analysis)
+An exploratory analysis of 2014–2018 regional sales data. The notebook examines revenue and margin drivers across products, channels, and regions, including seasonality, outliers, customer segments, and budget comparisons. The repository also includes a Power BI sales dashboard.
+
+*Python · Pandas · NumPy · Matplotlib · Seaborn · Power BI*
+
+#### [Power BI Dashboards](https://github.com/Ismailshah-123/power-bi-dashboards)
+A collection of interactive business dashboards covering HR analytics, student performance, credit-card/customer analysis, and sales performance.
+
+*Power BI · Data Modelling · KPI Design · Business Reporting*
+
+#### [Student Performance Prediction & Analysis](https://github.com/Ismailshah-123/student-performance-prediction-and-analysis)
+A notebook and Power BI dashboard exploring student-performance data through analysis and predictive modelling.
+
+*Python · Pandas · Jupyter Notebook · Machine Learning · Power BI*
+
+---
+
+## Technical toolkit
+
+| Area | Tools and methods |
+|---|---|
+| Programming | Python, SQL, JavaScript / TypeScript |
+| AI & ML | LLM integration, agent workflows, tool calling, RAG, scikit-learn, PyTorch, computer vision |
+| Data analytics | Pandas, NumPy, Jupyter, exploratory data analysis, data visualization |
+| Backend | FastAPI, REST APIs, Pydantic, SQLAlchemy |
+| Data & infrastructure | PostgreSQL, SQLite, Redis, Qdrant, FAISS, Docker |
+| Interfaces & automation | React, Streamlit, Playwright, webhooks, third-party APIs |
+| Business intelligence | Power BI, dashboards, KPI reporting |
+
+## Engineering approach
+
+- Understand the workflow before choosing the technology.
+- Keep business rules and consequential actions in application code, not only in model prompts.
+- Validate model output before using it to trigger an action.
+- Track data sources and make uncertainty visible.
 - Treat testing, permissions, and clear project status as part of the product.
 
-## Currently focused on
+## Current interests
 
-Building reliable agentic applications: systems where models can retrieve relevant context, use tools, and complete bounded tasks with clear validation and human oversight.
+Reliable agentic systems, practical machine learning, retrieval-augmented applications, and turning operational data into useful decisions.
 
 ---
 
-*Thanks for taking a look at my work. I’m always interested in practical AI engineering problems and thoughtful collaboration.*
+*Open to thoughtful conversations about AI engineering, machine learning, data products, and automation.*
