@@ -1,120 +1,82 @@
-# Ismail Shah
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Ismail Shah — AI Engineer" width="100%" />
+</p>
 
-**AI Engineer | Agentic AI · Machine Learning · Data Analytics**
+<h1 align="center">Ismail Shah</h1>
+<p align="center"><strong>AI Engineer · Machine Learning · Data Analytics · Backend Systems</strong></p>
 
-I build practical software around data and AI from machine-learning applications and analytical dashboards to backend services and agentic workflows. I’m interested in the full path from raw data or a business problem to a working tool: preparing the data, building the logic, connecting the pieces, and making the result understandable to the people using it.
-
-My projects span AI application engineering, computer vision, predictive modelling, data analysis, and workflow automation.
-
-[LinkedIn](https://www.linkedin.com/in/ismail-shah-57b425327) · [GitHub](https://github.com/Ismailshah-123)
-
----
-
-## Featured projects
-
-### AI engineering & intelligent applications
-
-#### [AI Voice Agent Platform](https://github.com/Ismailshah-123/Multi_voice_agent)
-A multi-tenant voice-agent application built around Vapi and a FastAPI backend. The backend handles provider webhooks, tool execution, business knowledge retrieval, call records, and post-call workflows.
-
-*Python · FastAPI · Vapi · RAG · Qdrant · PostgreSQL · Groq*
-
-#### [MultiCancer Ultimate](https://github.com/Ismailshah-123/Multi-Cancer-App)
-A computer-vision research application that brings together image-classification models for several cancer-related imaging tasks, with prediction visualizations and a medical knowledge assistant. The app includes CNN-based model workflows and saliency views to help inspect image regions influencing a result.
-
-*Python · PyTorch · Streamlit · Computer Vision · CNNs · FAISS · RAG*
-
-> Research and educational software only. It is not a medical device and must not be used to diagnose, screen, or make treatment decisions.
-
-#### [DPS AI Student Interview Documentation System](https://github.com/Ismailshah-123/dps-interviewer)
-A school-focused workflow for recording interviews with consent, transcribing audio, preparing structured documentation, and routing records for staff review. The current repository documents an end-to-end demo using synthetic data; it is not presented as production-ready. Staff retain responsibility for every decision.
-
-*React · TypeScript · FastAPI · Speech-to-Text · PostgreSQL*
-
-#### [CareerGPT](https://github.com/Ismailshah-123/Career-making)
-A multi-stage job-application workspace exploring role discovery, resume-to-job matching, application preparation, and workflow automation through cooperating services and agents.
-
-*FastAPI · LangGraph · Celery · PostgreSQL · Redis · Qdrant · Streamlit*
-
-#### [Lead Intelligence Engine](https://github.com/Ismailshah-123/lead-scrapper)
-A prospect research and qualification workflow designed around evidence rather than unverified lead volume. It collects available company signals, tracks their sources, and flags missing or conflicting details for review.
-
-*Python · Data validation · Research workflows · Lead scoring · Streamlit*
-
-#### [Revenue Recovery AI](https://github.com/Ismailshah-123/Revenue-Recovery)
-An MVP that helps teams review customer email conversations, identify follow-up gaps, and examine potential revenue opportunities with AI-assisted analysis.
-
-*FastAPI · Streamlit · SQLAlchemy · Gmail API · AI integration*
-
-#### [Financial Agent](https://github.com/Ismailshah-123/financial-agent-)
-An AI-assisted financial operations project exploring reporting, operational insights, and decision-support workflows around business data.
-
-*Python · FastAPI · React · PostgreSQL · AI integration*
+<p align="center">
+  <a href="https://www.linkedin.com/in/ismail-shah-57b425327">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Ismailshah-123">GitHub</a>
+</p>
 
 ---
 
-### Machine learning projects
+## Profile
 
-#### [SMS Spam Detection](https://github.com/Ismailshah-123/sms-detection-project)
-A text-classification application that distinguishes spam from legitimate messages. The workflow includes text cleaning, tokenization, stemming, TF-IDF feature extraction, a Naive Bayes classifier, exploratory analysis, and single-message and batch predictions.
+I build software that turns data and AI capabilities into useful operational tools. My work spans machine-learning applications, computer vision, data analytics, backend engineering, and agentic workflows.
 
-*Python · Scikit-learn · NLTK · TF-IDF · Naive Bayes · Streamlit*
+I approach projects from the problem outward: understand the user and business process, identify where data or automation can help, build the application around that need, and make its outputs clear enough to review and act on.
 
-#### [Insurance Charges Prediction](https://github.com/Ismailshah-123/insurance-project)
-A machine-learning application for exploring insurance-cost data, examining relationships between customer attributes and charges, and generating model-based estimates through an interactive dashboard.
+## Selected work
 
-*Python · Pandas · Scikit-learn · SHAP · Plotly · Streamlit*
+### AI systems and applied engineering
 
-#### [Movie Recommendation System](https://github.com/Ismailshah-123/movie-recommender)
-A recommendation application that combines collaborative-filtering predictions with content-similarity scores to produce ranked movie suggestions, with genre filtering and movie details.
+| Project | Problem addressed | What the application does |
+|---|---|---|
+| [AI Voice Agent Platform](https://github.com/Ismailshah-123/Multi_voice_agent) | Businesses can lose enquiries when calls are missed, responses are delayed, or routine requests require staff time. | Connects voice conversations to business knowledge and backend actions. Vapi handles the voice layer while FastAPI processes webhooks, validates structured tool requests, and supports workflows such as appointment booking. |
+| [MultiCancer Ultimate](https://github.com/Ismailshah-123/Multi-Cancer-App) | Medical-image research involves reviewing image patterns across different tissue and organ categories. | Brings together CNN-based image-classification workflows, prediction visualizations, saliency views, and a medical knowledge assistant in one research application. |
+| [DPS AI Student Interview System](https://github.com/Ismailshah-123/dps-interviewer) | Recording interviews and preparing consistent documentation can create repetitive administrative work for school staff. | Demonstrates a workflow for consent-aware interview recording, transcription, structured documentation, and staff review. The repository describes a demo using synthetic data; it is not represented as production-ready. |
+| [CareerGPT](https://github.com/Ismailshah-123/Career-making) | Applicants must repeatedly interpret job descriptions, compare requirements, and prepare tailored applications. | Explores role discovery, resume-to-job matching, application preparation, and multi-step agent workflows. |
+| [Lead Intelligence Engine](https://github.com/Ismailshah-123/lead-scrapper) | Sales research is time-consuming when company information is scattered and lead records contain gaps. | Organizes prospect research and qualification around available evidence, source signals, and explicit flags for missing or conflicting information. |
+| [Revenue Recovery AI](https://github.com/Ismailshah-123/Revenue-Recovery) | Follow-up gaps in customer conversations can leave potential revenue opportunities unnoticed. | An MVP for reviewing email conversations, identifying follow-up gaps, and surfacing potential recovery opportunities for human review. |
+| [Financial Agent](https://github.com/Ismailshah-123/financial-agent-) | Business and financial information can be difficult to interpret when operational data is spread across workflows. | Explores AI-assisted financial operations, reporting, and decision-support workflows. The project remains under development and validation. |
 
-*Python · Pandas · NumPy · Recommendation Systems · Streamlit*
+### Machine learning applications
 
----
+| Project | Problem addressed | Approach |
+|---|---|---|
+| [MultiCancer Ultimate](https://github.com/Ismailshah-123/Multi-Cancer-App) | Research workflows need tools to explore image categories and model outputs consistently. | PyTorch-based CNN image classification, saliency visualization, and supporting retrieval features. |
+| [SMS Spam Detection](https://github.com/Ismailshah-123/sms-detection-project) | Unwanted messages make it harder for users to identify legitimate communications. | Text cleaning, tokenization, stemming, TF-IDF features, and a Naive Bayes classifier, with single and batch prediction interfaces. |
+| [Insurance Charges Prediction](https://github.com/Ismailshah-123/insurance-project) | Insurance datasets contain relationships between customer attributes and observed charges that benefit from structured analysis. | Exploratory analysis, feature engineering, model-based estimates, and an interactive dashboard with model interpretation work. |
+| [Movie Recommendation System](https://github.com/Ismailshah-123/movie-recommender) | Large movie catalogues make it difficult to discover relevant titles. | Combines collaborative-filtering predictions and content-similarity scores to rank recommendations, with genre filtering and movie details. |
 
-### Data analytics & business intelligence
+### Data analytics and business intelligence
 
-#### [USA Regional Sales Analysis](https://github.com/Ismailshah-123/sales-analysis)
-An exploratory analysis of 2014–2018 regional sales data. The notebook examines revenue and margin drivers across products, channels, and regions, including seasonality, outliers, customer segments, and budget comparisons. The repository also includes a Power BI sales dashboard.
+| Project | Business question | Analysis and deliverable |
+|---|---|---|
+| [USA Regional Sales Analysis](https://github.com/Ismailshah-123/sales-analysis) | Which products, channels, and regions drive revenue and margin, and where do seasonal patterns or outliers affect performance? | Analysis of 2014–2018 sales data covering trends, customer segments, outliers, and budget comparisons, alongside a Power BI dashboard. |
+| [Power BI Dashboards](https://github.com/Ismailshah-123/power-bi-dashboards) | How can operational data be made easier for decision-makers to monitor? | Interactive dashboards for HR, student performance, credit-card/customer analysis, and sales performance. |
+| [Student Performance Analysis](https://github.com/Ismailshah-123/student-performance-prediction-and-analysis) | What patterns in student data can support a clearer understanding of academic performance? | Notebook-based analysis and predictive modelling, complemented by a Power BI dashboard. |
 
-*Python · Pandas · NumPy · Matplotlib · Seaborn · Power BI*
+## Technical capabilities
 
-#### [Power BI Dashboards](https://github.com/Ismailshah-123/power-bi-dashboards)
-A collection of interactive business dashboards covering HR analytics, student performance, credit-card/customer analysis, and sales performance.
-
-*Power BI · Data Modelling · KPI Design · Business Reporting*
-
-#### [Student Performance Prediction & Analysis](https://github.com/Ismailshah-123/student-performance-prediction-and-analysis)
-A notebook and Power BI dashboard exploring student-performance data through analysis and predictive modelling.
-
-*Python · Pandas · Jupyter Notebook · Machine Learning · Power BI*
-
----
-
-## Technical toolkit
-
-| Area | Tools and methods |
+| Discipline | Tools and methods |
 |---|---|
-| Programming | Python, SQL, JavaScript / TypeScript |
-| AI & ML | LLM integration, agent workflows, tool calling, RAG, scikit-learn, PyTorch, computer vision |
-| Data analytics | Pandas, NumPy, Jupyter, exploratory data analysis, data visualization |
-| Backend | FastAPI, REST APIs, Pydantic, SQLAlchemy |
-| Data & infrastructure | PostgreSQL, SQLite, Redis, Qdrant, FAISS, Docker |
-| Interfaces & automation | React, Streamlit, Playwright, webhooks, third-party APIs |
-| Business intelligence | Power BI, dashboards, KPI reporting |
+| Programming | Python, SQL, JavaScript, TypeScript |
+| Machine learning | Scikit-learn, PyTorch, feature engineering, model evaluation, classification, recommendation systems |
+| AI engineering | LLM integration, agent workflows, tool calling, retrieval-augmented generation, prompt and output validation |
+| Computer vision | Image classification, CNN workflows, saliency visualization |
+| Data analytics | Pandas, NumPy, Jupyter, exploratory analysis, statistical summaries, visualization |
+| Backend engineering | FastAPI, REST APIs, Pydantic, SQLAlchemy, webhooks |
+| Data and infrastructure | PostgreSQL, SQLite, Redis, Qdrant, FAISS, Docker |
+| Interfaces and reporting | React, Streamlit, Power BI, dashboard design |
 
-## Engineering approach
+## How I approach engineering
 
-- Understand the workflow before choosing the technology.
-- Keep business rules and consequential actions in application code, not only in model prompts.
-- Validate model output before using it to trigger an action.
-- Track data sources and make uncertainty visible.
-- Treat testing, permissions, and clear project status as part of the product.
+- **Start with the problem.** Define the user, workflow, constraints, and intended outcome before selecting a model or framework.
+- **Build beyond the model.** Connect inference to APIs, data, permissions, interfaces, and operational workflows.
+- **Validate before acting.** Treat model output as input that must be checked, especially before triggering consequential actions.
+- **Make results reviewable.** Preserve useful context, communicate uncertainty, and keep human review where it matters.
+- **Be precise about maturity.** Distinguish prototypes, demos, active development, and production-ready systems.
 
-## Current interests
+## Current focus
 
-Reliable agentic systems, practical machine learning, retrieval-augmented applications, and turning operational data into useful decisions.
+Reliable agentic applications, applied machine learning, retrieval systems, computer vision, and analytics products that help people make better operational decisions.
 
 ---
 
-*Open to thoughtful conversations about AI engineering, machine learning, data products, and automation.*
+<p align="center">
+  <a href="mailto:">Open to conversations about AI engineering, machine learning, data products, and automation</a>
+</p>
