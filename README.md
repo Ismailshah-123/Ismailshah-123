@@ -37,7 +37,6 @@ I approach projects from the problem outward: understand the user and business p
 
 | Project | Problem addressed | Approach |
 |---|---|---|
-| [MultiCancer Ultimate](https://github.com/Ismailshah-123/Multi-Cancer-App) | Research workflows need tools to explore image categories and model outputs consistently. | PyTorch-based CNN image classification, saliency visualization, and supporting retrieval features. |
 | [SMS Spam Detection](https://github.com/Ismailshah-123/sms-detection-project) | Unwanted messages make it harder for users to identify legitimate communications. | Text cleaning, tokenization, stemming, TF-IDF features, and a Naive Bayes classifier, with single and batch prediction interfaces. |
 | [Insurance Charges Prediction](https://github.com/Ismailshah-123/insurance-project) | Insurance datasets contain relationships between customer attributes and observed charges that benefit from structured analysis. | Exploratory analysis, feature engineering, model-based estimates, and an interactive dashboard with model interpretation work. |
 | [Movie Recommendation System](https://github.com/Ismailshah-123/movie-recommender) | Large movie catalogues make it difficult to discover relevant titles. | Combines collaborative-filtering predictions and content-similarity scores to rank recommendations, with genre filtering and movie details. |
@@ -77,6 +76,4 @@ Reliable agentic applications, applied machine learning, retrieval systems, comp
 
 ---
 
-<p align="center">
-  <a href="mailto:">Open to conversations about AI engineering, machine learning, data products, and automation</a>
-</p>
+<p align="center">Open to conversations about AI engineering, machine learning, data products, and automation.</p>
