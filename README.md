@@ -19,6 +19,12 @@ I build software that turns data and AI capabilities into useful operational too
 
 I approach projects from the problem outward: understand the user and business process, identify where data or automation can help, build the application around that need, and make its outputs clear enough to review and act on.
 
+## Business initiative
+
+I am building **Vertex Data Systems**, focused on practical AI and CRM automation for businesses — including lead capture, qualification, customer follow-up, workflow automation, and AI-powered customer communication.
+
+My focus is on solving operational problems with systems that are useful, measurable, and straightforward to manage.
+
 ## Selected work
 
 ### AI systems and applied engineering
